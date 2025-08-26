@@ -1,0 +1,91 @@
+
+GrowthLab
+
+Calculadora Base:
+
+Investimento inicial, aportes mensais, taxa de juro, período
+Diferentes frequências de capitalização (mensal, trimestral, anual)
+Cálculo com e sem inflação ajustada
+Impostos sobre ganhos de capital
+
+Inputs Dinâmicos:
+
+Sliders interativos com valores que se atualizam em tempo real
+Validação de dados (números positivos, limites realistas)
+Formatação automática de moeda (€, $, etc.)
+Presets comuns (reforma, casa própria, emergência)
+
+Visualização de Dados
+Gráficos Interativos:
+
+Linha temporal mostrando crescimento ao longo dos anos
+Gráfico de barras: principal vs. juros vs. aportes
+Gráfico circular: composição final do investimento
+Zoom, hover effects, tooltips informativos
+
+Tabelas Detalhadas:
+
+Breakdown ano a ano com valores específicos
+Export para CSV/Excel
+Possibilidade de expandir/colapsar detalhes mensais
+
+Features Avançadas
+Cenários Múltiplos:
+
+Comparação lado-a-lado de diferentes estratégias
+"E se?" scenarios (mudança de taxa, aportes variáveis)
+Simulação de crises (anos com retorno negativo)
+Diferentes perfis de risco
+
+Calculadoras Especiais:
+
+Meta reversa: "preciso de X€, como chegar lá?"
+Reforma: quando consegues parar de trabalhar
+Inflação personalizada por país/região
+Custos de oportunidade
+
+Interface e UX
+Design Profissional:
+
+Dark/light mode toggle
+Layout responsivo (mobile-first)
+Animações suaves nas transições
+Loading states para cálculos pesados
+
+Usabilidade:
+
+Tooltips explicativos para termos financeiros
+Undo/redo para mudanças rápidas
+Guardar configurações no localStorage
+URL partilhável com parâmetros
+
+Funcionalidades Técnicas
+Performance:
+
+Debounce nos inputs para evitar cálculos excessivos
+Web Workers para cálculos pesados
+Lazy loading de gráficos
+Memoização de resultados
+
+Dados e Lógica:
+
+Fórmulas matemáticas precisas
+Validação robusta de inputs
+Error handling elegante
+Testes unitários para funções de cálculo
+
+Extras que Impressionam
+Educacional:
+
+Glossário de termos financeiros
+"Como funciona" com explicações visuais
+Dicas de investimento baseadas nos resultados
+Comparação com investimentos reais (S&P 500, etc.)
+
+Integração:
+
+Import de dados via CSV
+Print/PDF dos resultados
+Partilha em redes sociais
+PWA (funciona offline)
+
