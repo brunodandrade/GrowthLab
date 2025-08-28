@@ -1,0 +1,30 @@
+#background {
+  height: 200vh;
+  width: 100vw;
+  background: #0353a4;
+  background: linear-gradient(
+    180deg,
+    rgba(3, 83, 164, 1) 30%,
+    rgb(91, 138, 185) 100%
+  );
+  z-index: -1;
+}
+
+#arrows {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+#arrowLeft {
+  position: absolute;
+  left: -450px;
+  top: 50px;
+}
+
+#arrowRight {
+  position: absolute;
+  right: -500px;
+  top: 70px;
+  transform: scale(0.8);
+}

@@ -1,0 +1,16 @@
+@import url(background.css);
+@import url(frontScreen.css);
+@import url(titleLogo.css);
+
+@font-face {
+  font-family: "Koulen";
+  src: url("./fonts/Koulen/Koulen-Regular.ttf");
+}
+
+* {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+:root {
+}
