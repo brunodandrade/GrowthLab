@@ -4,15 +4,67 @@
 @import url(inputContainer.css);
 
 @font-face {
-  font-family: "DMSerif-italic";
-  src: url("../fonts/DMSerifText-Italic.ttf");
+  font-family: "SFProDisplay";
+  src: url("./fonts/SFPRODISPLAYBLACKITALIC.OTF") format("opentype");
+  font-weight: 900;
+  font-style: italic;
 }
 
 @font-face {
-  font-family: "DMSerif-Regular";
-  src: url("../fonts/DMSerifText-Regular.ttf");
+  font-family: "SFProDisplay";
+  src: url("./fonts/SFPRODISPLAYBOLD.OTF") format("opentype");
+  font-weight: 700;
+  font-style: normal;
 }
 
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("./fonts/SFPRODISPLAYHEAVYITALIC.OTF") format("opentype");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("./fonts/SFPRODISPLAYLIGHTITALIC.OTF") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("./fonts/SFPRODISPLAYMEDIUM.OTF") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("./fonts/SFPRODISPLAYREGULAR.OTF") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("./fonts/SFPRODISPLAYSEMIBOLDITALIC.OTF") format("opentype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("./fonts/SFPRODISPLAYTHINITALIC.OTF") format("opentype");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFProDisplay";
+  src: url("./fonts/SFPRODISPLAYULTRALIGHTITALIC.OTF") format("opentype");
+  font-weight: 200;
+  font-style: italic;
+}
 * {
   margin: 0;
   overflow-x: hidden;
@@ -22,4 +74,10 @@
   --fontColor: #ffffff;
   --fontColorInverted: #001233;
   --bubbleColor: white;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
 }
