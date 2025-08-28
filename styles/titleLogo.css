@@ -1,3 +1,34 @@
 #logo {
   display: flex;
+  margin-top: 20px;
+  font-family: "Arial";
+}
+
+#logoOne {
+  color: var(--fontColor);
+  font-size: 30px;
+  display: flex;
+  font-weight: bolder;
+  align-items: end;
+  letter-spacing: -1px;
+}
+
+#logoTwo {
+  color: var(--fontColorInverted);
+  font-size: 28px;
+  display: flex;
+  align-items: end;
+  letter-spacing: -1px;
+  font-weight: bolder;
+}
+
+#logoOne * {
+  color: var(--fontColor);
+}
+
+#logoSentence {
+  color: var(--fontColor);
+  margin-top: -8px;
+  font-size: 13px;
+  z-index: 3;
 }

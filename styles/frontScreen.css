@@ -1,6 +1,6 @@
 #frontScreen {
   position: absolute;
-  top: 0px;
+  top: 0;
   width: 100vw;
   height: 100vh;
 }
@@ -11,4 +11,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-family: "sans-serif";
+  font-weight: bolder;
 }

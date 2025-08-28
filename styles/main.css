@@ -1,10 +1,16 @@
 @import url(background.css);
 @import url(frontScreen.css);
 @import url(titleLogo.css);
+@import url(inputContainer.css);
 
 @font-face {
-  font-family: "Koulen";
-  src: url("./fonts/Koulen/Koulen-Regular.ttf");
+  font-family: "DMSerif-italic";
+  src: url("../fonts/DMSerifText-Italic.ttf");
+}
+
+@font-face {
+  font-family: "DMSerif-Regular";
+  src: url("../fonts/DMSerifText-Regular.ttf");
 }
 
 * {
@@ -13,4 +19,7 @@
 }
 
 :root {
+  --fontColor: #ffffff;
+  --fontColorInverted: #001233;
+  --bubbleColor: white;
 }

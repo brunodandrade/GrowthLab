@@ -1,6 +1,30 @@
 
 GrowthLab
 
+Initial inv
+Month inv
+interest rt
+Frequency
+impostos
+Moeda
+Inverted calculation
+Reforma
+
+Glossário de termos financeiros
+"Como funciona" com explicações visuais
+Dicas de investimento baseadas nos resultados
+Comparação com investimentos reais (S&P 500, etc.)
+
+Dark/light mode toggle
+Layout responsivo (mobile-first)
+Animações suaves nas transições
+Loading states para cálculos pesados
+
+Import de dados via CSV
+Print/PDF dos resultados
+Partilha em redes sociais
+PWA (funciona offline)
+
 Calculadora Base:
 
 Investimento inicial, aportes mensais, taxa de juro, período
