@@ -9,8 +9,8 @@
   background: rgba(255, 255, 255, 0.21);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(9.5px);
-  -webkit-backdrop-filter: blur(9.5px);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.47);
   overflow: hidden;
   display: flex;
@@ -20,13 +20,14 @@
 }
 
 .inputContainer {
-  width: 400px;
+  width: 100%;
   height: max-content;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 .inputTitle {
@@ -37,9 +38,11 @@
   font-size: 15px;
   opacity: 0.5;
   margin-bottom: 10px;
-  width: 200px;
+  width: 90%;
   height: max-content;
   display: flex;
+  align-items: center;
+  justify-content: center;
   flex-wrap: wrap;
   text-align: center;
   font-style: italic;
@@ -52,9 +55,38 @@
   border-radius: 16px;
   border: 1px solid rgba(255, 255, 255, 1);
   height: 20px;
-  width: 240px;
+  width: 705;
+}
+
+.select {
+  font-size: 14px;
+  font-style: italic;
 }
 
 .inputText:focus {
   outline: none;
+}
+
+.select {
+  height: 25px;
+}
+
+#calculateButton {
+  width: 200px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.51);
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 1);
+  margin-top: 40px;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+#calculateButton:hover {
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.71);
+}
+
+#calculateButton:active {
+  background: rgba(255, 255, 255, 0.91);
 }
