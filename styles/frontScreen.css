@@ -1,9 +1,11 @@
 #frontScreen {
-  position: absolute;
   top: 0;
   width: 100vw;
-  height: 100vh;
+  height: max-content;
   min-height: 800px;
+  display: flex;
+  flex-direction: column;
+  z-index: 10;
 }
 
 #title {

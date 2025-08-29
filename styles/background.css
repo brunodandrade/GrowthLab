@@ -1,27 +1,29 @@
-#background {
-  height: 200vh;
-
+#display {
   width: 100vw;
+  height: max-content;
   background: #0353a4;
   background: linear-gradient(
     180deg,
     rgba(3, 83, 164, 1) 30%,
     rgb(91, 138, 185) 100%
   );
-  z-index: 0;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
 }
 
 #arrows {
   height: 100vh;
   width: 100vw;
-  position: relative;
-  z-index: 2;
+  position: absolute;
+  z-index: -1;
 }
 
 #arrowLeft {
   position: absolute;
   left: -450px;
   top: 50px;
+  user-select: none;
 }
 
 #arrowRight {
@@ -29,24 +31,25 @@
   right: -500px;
   top: 70px;
   transform: scale(0.8);
+  user-select: none;
 }
 
 #bubbles {
-  height: 200vh;
   width: 100vw;
   position: absolute;
   top: 0;
-  filter: blur(100px);
-  opacity: 0.35;
-  z-index: 1;
+  filter: blur(0px);
+  opacity: 0.5;
 }
 
 .bubble {
   background-color: var(--bubbleColor);
   width: 25%;
-  height: 10%;
+  height: 5%;
   border-radius: 100%;
   position: absolute;
+  filter: blur(50px);
+  z-index: -10;
 }
 
 .b1 {
@@ -82,7 +85,7 @@
 }
 @keyframes bubble {
   0% {
-    top: 100%;
+    top: 150%;
   }
   100% {
     top: -25%;
