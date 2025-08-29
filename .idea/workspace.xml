@@ -10,8 +10,6 @@
       <change beforePath="$PROJECT_DIR$/styles/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/background.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/frontScreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/frontScreen.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/inputContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/inputContainer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/titleLogo.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/titleLogo.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +77,7 @@
       <workItem from="1756246313943" duration="123000" />
       <workItem from="1756246479641" duration="359000" />
       <workItem from="1756453693547" duration="318000" />
+      <workItem from="1756502432285" duration="2493000" />
     </task>
     <task id="LOCAL-00001" summary="From Desktop">
       <option name="closed" value="true" />

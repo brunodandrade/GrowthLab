@@ -1,5 +1,6 @@
 #display {
   width: 100vw;
+  min-height: 100vh;
   height: max-content;
   background: #0353a4;
   background: linear-gradient(
@@ -88,6 +89,6 @@
     top: 150%;
   }
   100% {
-    top: -25%;
+    top: -150%;
   }
 }
