@@ -1,7 +1,7 @@
 #logo {
   display: flex;
   margin-top: 20px;
-  font-family: "Arial";
+  font-family: "Arial", serif;
 }
 
 #logoOne {

@@ -1,5 +1,7 @@
 #input {
   position: absolute;
+  min-height: max-content;
+  margin-top: 30px;
   height: max-content;
   width: 80%;
   top: 50%;
@@ -55,7 +57,6 @@
   border-radius: 16px;
   border: 1px solid rgba(255, 255, 255, 1);
   height: 20px;
-  width: 705;
 }
 
 .select {
