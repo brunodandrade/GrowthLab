@@ -15,6 +15,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  margin-bottom: 64px;
 }
 
 #resultText {
@@ -28,6 +29,7 @@
 
 #resultTextOne {
   font-size: 36px;
+  display: flex;
 }
 
 #resultTextTwo {

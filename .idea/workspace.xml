@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="848ebaf2-61d7-4294-98f5-0ffc5bb48a13" name="Changes" comment="From Desktop">
-      <change afterPath="$PROJECT_DIR$/styles/graph.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/result.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/table.css" afterDir="false" />
+    <list default="true" id="848ebaf2-61d7-4294-98f5-0ffc5bb48a13" name="Changes" comment="From Laptop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/background.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/frontScreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/frontScreen.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/inputContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/inputContainer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/result.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/result.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/table.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +88,7 @@
       <workItem from="1756502432285" duration="2493000" />
       <workItem from="1756563531581" duration="11487000" />
       <workItem from="1756586323183" duration="9208000" />
-      <workItem from="1756646693763" duration="735000" />
+      <workItem from="1756646693763" duration="4730000" />
     </task>
     <task id="LOCAL-00001" summary="From Desktop">
       <option name="closed" value="true" />
@@ -126,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756422233360</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="From Laptop">
+      <option name="closed" value="true" />
+      <created>1756647440352</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756647440352</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="From Desktop" />
-    <option name="LAST_COMMIT_MESSAGE" value="From Desktop" />
+    <MESSAGE value="From Laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="From Laptop" />
   </component>
 </project>
