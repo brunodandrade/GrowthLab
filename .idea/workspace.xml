@@ -5,16 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="848ebaf2-61d7-4294-98f5-0ffc5bb48a13" name="Changes" comment="From Desktop">
+      <change afterPath="$PROJECT_DIR$/styles/graph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/result.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/table.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/background.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/frontScreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/frontScreen.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/inputContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/inputContainer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,6 +60,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -78,6 +90,9 @@
       <workItem from="1756246479641" duration="359000" />
       <workItem from="1756453693547" duration="318000" />
       <workItem from="1756502432285" duration="2493000" />
+      <workItem from="1756563531581" duration="11487000" />
+      <workItem from="1756586323183" duration="9208000" />
+      <workItem from="1756646693763" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="From Desktop">
       <option name="closed" value="true" />
