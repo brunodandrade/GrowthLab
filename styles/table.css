@@ -27,4 +27,6 @@ td {
 
 .tableHeader {
   background: rgba(255, 255, 255, 0.2);
+  font-weight: 600;
+  font-style: italic;
 }

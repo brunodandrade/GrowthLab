@@ -44,7 +44,11 @@
             <div class="inputSubTitle">
               Amount of money that you have available to invest initially.
             </div>
-            <input class="inputText" type="number" />
+            <input
+              class="inputText"
+              type="number"
+              id="initialInvestmentInput"
+            />
           </div>
           <div class="input">
             <div class="inputTitle">Monthly Contribution</div>
@@ -53,33 +57,40 @@
               negative number for the amount that you plan to withdraw every
               month.
             </div>
-            <input class="inputText" type="number" />
+            <input
+              class="inputText"
+              type="number"
+              id="monthlyContributionInput"
+            />
           </div>
           <div class="input">
             <div class="inputTitle">Length of Time in Years</div>
             <div class="inputSubTitle">
               Length of time, in years, that you plan to save.
             </div>
-            <input class="inputText" type="number" />
+            <input class="inputText" type="number" id="yearsInput" />
           </div>
           <div class="input">
             <div class="inputTitle">Estimated Interest Rate</div>
             <div class="inputSubTitle">
               Your estimated annual interest rate.
             </div>
-            <input class="inputText" type="number" />
+            <input class="inputText" type="number" id="interestRateInput" />
           </div>
           <div class="input">
             <div class="inputTitle">Compound Frequency</div>
             <div class="inputSubTitle">
               Times per year that interest will be compounded.
             </div>
-            <select name="" class="inputText inputSelect">
-              <option value="1">Annually</option>
-              <option value="2">Semiannually</option>
-              <option value="3">Quarterly</option>
-              <option value="4">Monthly</option>
-              <option value="5">Daily</option>
+            <select
+              name=""
+              class="inputText inputSelect"
+              id="compoundFrequencyInput"
+            >
+              <option value="12">Annually</option>
+              <option value="6">Semiannually</option>
+              <option value="4">Quarterly</option>
+              <option value="1">Monthly</option>
             </select>
           </div>
           <div class="input compoundInput">

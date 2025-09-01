@@ -1,3 +1,42 @@
+Addition:
+(100×3)×[((1+0.08÷4)¹⁶⁰ −1)÷(0.08÷4)]
+
+Initial:
+1000(1+0.08/1)⁴⁰
+
+
+function compoundPerYear() {
+  let total = investment;
+  let everyYear = [];
+
+  for (let i = 0; i <= years; i++) {
+    total += (total * rate) / frequency;
+
+    everyYear.push(total.toFixed(2));
+  }
+
+  console.log(everyYear);
+}
+
+----------------------------
+
+let initial = Number(
+    initialFormula(
+      initialInvestment,
+      interestRate,
+      compoundFrequency,
+      yearsLength,
+    ),
+  );
+  let addition = Number(
+    additionFormula(
+      monthlyContribution,
+      interestRate,
+      compoundFrequency,
+      yearsLength,
+    ),
+  );
+
 
 GrowthLab
 

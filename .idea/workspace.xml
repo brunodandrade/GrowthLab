@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="848ebaf2-61d7-4294-98f5-0ffc5bb48a13" name="Changes" comment="From Laptop">
+    <list default="true" id="848ebaf2-61d7-4294-98f5-0ffc5bb48a13" name="Changes" comment="From Desktop">
+      <change afterPath="$PROJECT_DIR$/scripts/compoundMath.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extra/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/inputContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/inputContainer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/result.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/result.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/table.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,11 +54,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -85,10 +87,8 @@
       <workItem from="1756246313943" duration="123000" />
       <workItem from="1756246479641" duration="359000" />
       <workItem from="1756453693547" duration="318000" />
-      <workItem from="1756502432285" duration="2493000" />
-      <workItem from="1756563531581" duration="11487000" />
-      <workItem from="1756586323183" duration="9208000" />
-      <workItem from="1756646693763" duration="4730000" />
+      <workItem from="1756724005623" duration="30010000" />
+      <workItem from="1756763500246" duration="5002000" />
     </task>
     <task id="LOCAL-00001" summary="From Desktop">
       <option name="closed" value="true" />
@@ -122,15 +122,7 @@
       <option name="project" value="LOCAL" />
       <updated>1756422233360</updated>
     </task>
-    <task id="LOCAL-00005" summary="From Laptop">
-      <option name="closed" value="true" />
-      <created>1756647440352</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1756647440352</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +130,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="From Desktop" />
-    <MESSAGE value="From Laptop" />
-    <option name="LAST_COMMIT_MESSAGE" value="From Laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="From Desktop" />
   </component>
 </project>
