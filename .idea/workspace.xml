@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="848ebaf2-61d7-4294-98f5-0ffc5bb48a13" name="Changes" comment="From Desktop">
-      <change afterPath="$PROJECT_DIR$/scripts/compoundMath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/display.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extra/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/compoundMath.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/compoundMath.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/background.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,7 @@
       <workItem from="1756246479641" duration="359000" />
       <workItem from="1756453693547" duration="318000" />
       <workItem from="1756724005623" duration="30010000" />
-      <workItem from="1756763500246" duration="5002000" />
+      <workItem from="1756763500246" duration="11567000" />
     </task>
     <task id="LOCAL-00001" summary="From Desktop">
       <option name="closed" value="true" />
@@ -122,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756422233360</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="From Desktop">
+      <option name="closed" value="true" />
+      <created>1756769272318</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756769272319</updated>
+    </task>
+    <task id="LOCAL-00006" summary="From Desktop">
+      <option name="closed" value="true" />
+      <created>1756769356021</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756769356021</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
