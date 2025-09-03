@@ -1,1 +1,1 @@
-# GrowthLab
+## GrowthLab
