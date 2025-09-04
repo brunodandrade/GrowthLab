@@ -1,0 +1,93 @@
+#display {
+  width: 100vw;
+  min-height: 100vh;
+  height: max-content;
+  background: #0353a4;
+  background: linear-gradient(
+    180deg,
+    rgba(3, 83, 164, 1) 30%,
+    rgb(91, 138, 185) 100%
+  );
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+#arrows {
+  height: 100%;
+  width: 100vw;
+  position: absolute;
+  z-index: -1;
+}
+
+#arrowLeft {
+  position: absolute;
+  left: -450px;
+  top: 50px;
+  user-select: none;
+}
+
+#arrowRight {
+  position: absolute;
+  right: -500px;
+  top: 70px;
+  transform: scale(0.8);
+  user-select: none;
+}
+
+#bubbles {
+  width: 100vw;
+  position: absolute;
+  top: 0;
+}
+
+.bubble {
+  background-color: var(--bubbleColor);
+  width: 25%;
+  height: 5%;
+  border-radius: 100%;
+  position: absolute;
+  filter: blur(100px);
+  opacity: 1;
+  z-index: -10;
+}
+
+.b1 {
+  position: absolute;
+  animation: bubble 10s infinite linear;
+  animation-delay: -5s;
+  transform: scale(3);
+}
+
+.b2 {
+  position: absolute;
+  left: 25%;
+  animation: bubble 30s infinite linear;
+  animation-delay: -10s;
+
+  transform: scale(3);
+}
+.b3 {
+  position: absolute;
+  left: 50%;
+  animation: bubble 20s infinite linear;
+  animation-delay: -10s;
+
+  transform: scale(3);
+}
+.b4 {
+  position: absolute;
+  left: 75%;
+  animation: bubble 40s infinite linear;
+  animation-delay: -30s;
+
+  transform: scale(3);
+}
+@keyframes bubble {
+  0% {
+    top: 150%;
+  }
+  100% {
+    top: -150%;
+  }
+}
