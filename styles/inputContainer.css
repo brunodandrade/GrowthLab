@@ -7,14 +7,45 @@
   border: 1px solid rgba(255, 255, 255, 0.3);
   width: 80%;
   display: flex;
-  align-items: center;
+  align-items: start;
   justify-content: space-between;
   padding: 10px 0;
-  margin-top: 20px;
   flex-direction: column;
-  height: calc(100vh - 64px - 64px);
-  min-height: 705px;
+  height: 600px;
+min-width: 260px;
   max-width: 700px;
+}
+
+#inputContainerPageSelector{
+    margin-top: 20px;
+    width: 74%;
+    min-width: 240px;
+    height: 40px;
+    display: flex;
+    align-items: end;
+    justify-content: start;
+    max-width: 600px;
+}
+
+#pageCompoundButton{
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-width: 1px 1px 0 1px;
+    border-radius: 5px 5px 0 0;
+    width: 50px;
+    height: 40px;
+    cursor: pointer;
+}
+
+#pageCompoundButton img{
+    width: 80%;
+}
+
+#pageCompoundButton:active{
+    background: rgba(255, 255, 255, 0.24);
 }
 
 .input {
@@ -22,7 +53,9 @@
   flex-direction: column;
   align-items: center;
   font-family: SFProDisplay, sans-serif;
-  margin: 10px 0;
+width: 100%;
+
+
 }
 
 .inputTitle {
@@ -64,16 +97,17 @@
   display: flex;
   justify-content: center;
   align-items: center;
+
 }
 
 #compoundButton {
   height: 50px;
   width: 200px;
-  margin-top: 30px;
   background-color: rgba(255, 255, 255, 0.7);
   border-radius: 18px;
   border: 1px solid white;
   font-size: 18px;
+    margin-top: 10px;
 }
 
 #compoundButton:hover {

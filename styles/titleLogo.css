@@ -1,6 +1,6 @@
 #logo {
   display: flex;
-  margin-top: 20px;
+  margin-top: 40px;
   font-family: "Arial", serif;
   z-index: 10;
   user-select: none;
@@ -32,4 +32,5 @@
   color: var(--fontColor);
   margin-top: -8px;
   font-size: 13px;
+    text-wrap: nowrap;
 }
