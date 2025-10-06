@@ -1,3 +1,4 @@
+![app2.png](Extra/app2.png)
 # GrowthLab
 
 GrowthLab is an interactive web-based tool designed to visualize and calculate **compound growth**. It combines clear UI design, dynamic graphs, and mathematical logic to help users understand how investments, savings, or other values grow over time.

@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="848ebaf2-61d7-4294-98f5-0ffc5bb48a13" name="Changes" comment="v1.0">
-      <change afterPath="$PROJECT_DIR$/images/icons/calculatorIcon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/display.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/display.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/inputContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/inputContainer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/result.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/result.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/table.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/titleLogo.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/titleLogo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +69,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-WS-252.26199.162" />
       </set>
     </attachedChunks>
   </component>
@@ -96,6 +91,8 @@
       <workItem from="1756981236482" duration="1465000" />
       <workItem from="1756983114224" duration="4000" />
       <workItem from="1757023428875" duration="5308000" />
+      <workItem from="1759770455704" duration="47000" />
+      <workItem from="1759770516564" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="From Desktop">
       <option name="closed" value="true" />
